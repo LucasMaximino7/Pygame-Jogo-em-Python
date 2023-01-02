@@ -1,2 +1,5 @@
-# Pygame-Jogo-em-Python
-Jogo feito com linguagem Python, usando biblioteca Pygame
+Requisitos
+
+Baixe a pasta completa, e dentro da IDE, selecione "abrir pasta", abra essa pasta e execute o codigo.
+A biblioteca Pygame é necessaria:
+WIN + R > cmd > pip install pygame
